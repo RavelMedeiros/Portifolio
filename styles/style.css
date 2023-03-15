@@ -130,6 +130,11 @@ body {
         padding: 10%
     }
 
+    .cabecalho__menu {
+        justify-content: center;
+        text-align: center;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
@@ -146,10 +151,5 @@ body {
 
     .apresentacao__imagem {
         width: 50%;
-    }
-
-    .cabecalho__menu {
-        justify-content: center;
-        text-align: center;
     }
 }
