@@ -5,7 +5,7 @@ if (tamanhoTela <= 1200) {
     let titulo = document.querySelector('.apresentacao__conteudo__titulo')
     let ImagemCelular = document.createElement('img')
 
-    if (nomePagina == "/index.html") {
+    if (nomePagina == '/Portifolio/index.html') {
         ImagemCelular.src = "./assets/fotoPerfil.png"
         ImagemCelular.alt = "Foto de perfil"
         ImagemCelular.classList.add("apresentacao__imagem")
