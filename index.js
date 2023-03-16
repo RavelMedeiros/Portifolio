@@ -18,3 +18,4 @@ if (tamanhoTela <= 1200) {
         ImagemPc.classList.add("apresentacao__imagem")
         titulo.appendChild(ImagemPc)
     }
+}
